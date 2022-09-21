@@ -1,28 +1,56 @@
+.speech{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;
+    font-size: 15pxl;
+    color: black;
+}
+.song{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15pxl;
+    color: black;
+}
+.direction{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15pxl;
+    color: rgb(255, 196, 198);
+}
+.name{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15pxl;
+    color:black
+}
+.direction:hover{
 
+    background-color: sienna;
+}
 .FIA{
     font-style: italic;
     color: blueviolet;
-
 }
-h4{
-    font-size:15px;
+.MAR{
+    font-style: italic;
+    color: blueviolet;
 }
-p:hover {
-    background-color:blue;
-  }
-h4{
-    color:blue;
+.GIU{
+    font-style: italic;
+    color: blueviolet;
 }
-h3{
-    color:black;
+.VIT{
+    font-style: italic;
+    color: blueviolet;
 }
-h3{
-    font-size:20px;
+.CHROUS{
+    font-style: initial;
+    color: blue;
 }
-
+.GIRLS{
+    font-style: oblique;
+    color: blue;
+}
 p{
-    color:gold;
+    color:slateblue
 }
+
 span{
     color:green;
 }
@@ -31,25 +59,52 @@ span:hover{
 }
 h3{
     font-style: italic;
+    color:sienna;
+}
+h4{
+    color:tomato;
+}
+ 
+
+h1{
+    color:brown
 }
 
-h4{
-    font-style: inherit;
+td, th {
+    border:4px solid #777;
+    padding: 1rem;
+    text-align: center;
+    text;
 }
-.chorus{
-font-size:20px;
-color:blueviolet;
+table {
+    border-collapse: collapse;
 }
+tbody tr:nth-child(even) {
+    background: #eee;
+}
+th{
+    background-color: burlywood;
+}
+tbody tr:nth-child(odd)
+{
+    color:teal;
+}
+
+
+    
+
+
+/*
 .hello{
     font-size:20;
-    color:deepskyblue;
+    color:deepskyblue
 }
 .character{
     font-size:15px;
     color:burlywood;
 }
 table{
-    border-style: dotted;
+    border-style;
 }
 th, td {
     border: 1px solid black;
@@ -113,4 +168,4 @@ th {
   
   li a:hover {
     background-color:blueviolet;
-  }
+  }/*
