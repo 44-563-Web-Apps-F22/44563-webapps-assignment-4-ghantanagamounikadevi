@@ -90,6 +90,13 @@ tbody tr:nth-child(odd)
     color:teal;
 }
 
+.a{
+    text-shadow: 2px 2px 2px cornflowerblue,8px 9px 10px crimson;
+}
+.a:hover{
+    background-color: aquamarine;
+}
+
 
     
 
