@@ -1,56 +1,61 @@
-speech {
+h1{
+    font-style: oblique;
+    color:royalblue;
+}
+p.speech {
 font-family: 'Times New Roman', Times, serif;
 font-size: 15pxl;
 color: black;    
 }
-song{
+p.song{
     font-family: 'Times New Roman', Times, serif;
     font-size: 15pxl;
     color:black;
 
 }
-direction{
+p.direction{
     font-family: 'Times New Roman', Times, serif;
     font-size: 15xl;
-    color: beige;
+    color: aquamarine;
 
 }
-name{
+h4.name{
     font-family: 'Times New Roman', Times, serif;
     font-size:15pxl;
-    color: black;
+    color: blue;
 
 }
-direction:hover,direction:active{
+p.direction:hover,p.direction:active{
     background-color: aqua;
-    color: azure;
-}MAR
+    color:blue;
+}
+.MAR
  {
     font-style: italic;
     color: blueviolet;
  
 }
-GIU{
+.GIU{
     font-style: italic;
     color: blueviolet;
  
 }
-FIA{
+.FIA{
     font-style: italic;
     color: blueviolet;
 
 }
-VIT{
+.VIT{
     font-style: italic;
     color: blueviolet;
 
 }
-CHORUS{
+.CHORUS{
     font-style: oblique;
     color: darkkhaki;
 
 }
-GIRLS{
+.GIRLS{
     font-style: oblique;
     color:darkkhaki;
 
