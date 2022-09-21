@@ -1,0 +1,57 @@
+speech {
+font-family: 'Times New Roman', Times, serif;
+font-size: 15pxl;
+color: black;    
+}
+song{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15pxl;
+    color:black;
+
+}
+direction{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15xl;
+    color: beige;
+
+}
+name{
+    font-family: 'Times New Roman', Times, serif;
+    font-size:15pxl;
+    color: black;
+
+}
+direction:hover,direction:active{
+    background-color: aqua;
+    color: azure;
+}MAR
+ {
+    font-style: italic;
+    color: blueviolet;
+ 
+}
+GIU{
+    font-style: italic;
+    color: blueviolet;
+ 
+}
+FIA{
+    font-style: italic;
+    color: blueviolet;
+
+}
+VIT{
+    font-style: italic;
+    color: blueviolet;
+
+}
+CHORUS{
+    font-style: oblique;
+    color: darkkhaki;
+
+}
+GIRLS{
+    font-style: oblique;
+    color:darkkhaki;
+
+}
