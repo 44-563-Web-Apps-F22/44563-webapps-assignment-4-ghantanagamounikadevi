@@ -91,88 +91,32 @@ tbody tr:nth-child(odd)
 }
 
 .a{
-    text-shadow: 2px 2px 2px cornflowerblue,8px 9px 10px crimson;
+    text-shadow: 1px 1px 1px cornflowerblue,8px 9px 10px crimson;
 }
 .a:hover{
     background-color: aquamarine;
 }
 
-
-    
-
-
-/*
-.hello{
-    font-size:20;
-    color:deepskyblue
-}
-.character{
-    font-size:15px;
-    color:burlywood;
-}
-table{
-    border-style;
-}
-th, td {
-    border: 1px solid black;
-  }
-th {
-   color:purple;
-      }
-      td{
-        color:crimson;
-      }
-       tr:nth-child(even) {
-        background-color:blue;
-      }
-      td {
-        text-align: center;
-      }
-      
-     .chips{
-        font-size:20;
-        color:red;
-
-     }
-     h2:hover{
-          color:blueviolet;
-     }
-
-   h2{
-    
-        text-shadow: 2px 3px 5px red;
-   }
-   
-  th,td {
-    width:200px;
-    padding:0px 4px 4px 4px;
-    margin: -28px 0px -10px 100px;
-    background: lightblue;
-    border-top: 2px solid #000;
-    border-right: 4px dashed brown;
-    border-bottom: 8px double yellow;
-    border-left: 16px inset purple;
- }
- ul {
+ul{
     list-style-type: none;
     margin: 0;
-    padding: 0;
+    margin: 0;
     overflow: hidden;
-    background-color: #333;
-  }
-  
-  li {
-    float: left;
-  }
-  
-  li a {
+    background-color: teal(120,175,77,0.50);
+}
+li{
+    float:left;
+}
+li a {
     display: block;
-    color: white;
+    color: cadetblue;
     text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-  }
-  
-  li a:hover {
-    background-color:blueviolet;
-  }/*
+    padding:10px 10px;
+}
+img {
+    max-width: 20%;
+    max-height: 20%;
+   }
+li a:hover{
+    background-color: sienna(150,40,150);
+}
